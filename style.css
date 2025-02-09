@@ -1,0 +1,18 @@
+span{
+      		font-size: 40px;
+      		color: ghostwhite;
+      		background-color: black;
+      		}
+     	#box{
+     		border: 20px double darkblue;
+     	}
+     	#numX, #numY{
+     		background-color: skyblue;
+     		color: white;
+     		font-size: 30px;
+     	}
+     	#info{
+     		height: 35px;
+     		width:35px;
+     	}
+
